@@ -1,4 +1,5 @@
 Aqui então  códigos e testes do ROS 1 e ROS 2,  quais servirão de base para simulação de drone e  de logística   
+Cabe ressaltar que essa pagina foi feita baseado no estudo da documentação do ROS  (Robot Operating System)  link da pagina http://wiki.ros.org/pt_BR 
 # ROS-1_and_ROS-2 
 
 
