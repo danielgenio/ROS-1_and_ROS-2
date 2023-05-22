@@ -26,5 +26,6 @@ Nesse topico cabe ressaltar que o ROS 2 se diferencia ja no que foi citado mas o
 
 # Primeiros passos em ROS 1
 Em primeiro ligar você precisa de um sistema linux, pode se wsl, uma virtulização ou ate mesmo  um dualboot. Eu indico uma virtualização ou dualboot pela interfaca grafica, pois para algumas aplicações você pode quer simular. Dito isso o primeiro passo com isso é baixar o sistema na sua maquina siga os a trilha https://github.com/danielgenio/ROS-1_and_ROS-2/blob/main/instala%C3%A7%C3%A3o.md
+
 Indico testar o ROS 1 com a sequente trilha 
 
