@@ -25,4 +25,6 @@ Integração com pacotes existentes/ Sistemas legado: Se você já possui pacote
 Nesse topico cabe ressaltar que o ROS 2 se diferencia ja no que foi citado mas o grande coisa que ele sai na frente é a facilidade de comunicação e velocidade o que per mite criar mais facilmente, robos com processamentos em diferentes lugaraes, o que gera tipos de robos como enxame. A titulo de exemplo:  ROS 2 Multimaster é um projeto que aborda o desafio de comunicação entre múltiplos mestres do ROS 2. Em um enxame de robôs, cada robô pode ter seu próprio mestre ROS 2 para gerenciar sua rede de comunicação interna. O ROS 2 Multimaster permite que os mestres se comuniquem entre si, permitindo a colaboração e a troca de informações em um enxame distribuído. 
 
 # Primeiros passos em ROS 1
-Em primeiro ligar você precisa de um sistema linux, pode se wsl, uma virtulização ou ate mesmo  um dualboot. Eu indico uma virtualização ou dualboot pela interfaca grafica, pois para algumas aplicações você pode quer simular. Dito isso o primeiro passo com isso é baixar o sistema na sua maquina siga os a trilha 
+Em primeiro ligar você precisa de um sistema linux, pode se wsl, uma virtulização ou ate mesmo  um dualboot. Eu indico uma virtualização ou dualboot pela interfaca grafica, pois para algumas aplicações você pode quer simular. Dito isso o primeiro passo com isso é baixar o sistema na sua maquina siga os a trilha https://github.com/danielgenio/ROS-1_and_ROS-2/blob/main/instala%C3%A7%C3%A3o.md
+Indico testar o ROS 1 com a sequente trilha 
+
